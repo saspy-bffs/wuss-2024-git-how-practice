@@ -59,4 +59,6 @@ Class attendees are encouraged to fork this repo and practice making Pull Reques
 
 - Get used to Git!
 
+- The git that keeps on giving.
+  
 - [your suggestions here]
