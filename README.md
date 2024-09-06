@@ -1,3 +1,5 @@
+i made an edit!
+
 # Commit early, commit often! A gentle introduction to the joy of Git and GitHub
 
 ## Supplemental Materials for a 90-minute Hands-on Workshop at [WUSS](https://www.wuss.org) in Sacramento, California, on 06SEP2024.
