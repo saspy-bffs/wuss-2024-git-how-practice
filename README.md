@@ -33,7 +33,7 @@ Class attendees are encouraged to fork this repo and practice making Pull Reques
 
 #### Additional Git CLI Commands Discussed (feel free to help add definitions or examples!)
 
-- `git --version`:
+- `git --version`: displays the version information for git
 
 - `git --help`:
 
